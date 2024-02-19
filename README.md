@@ -1,2 +1,6 @@
 # JavaScriptExercises
-In this repository I will upload projects I did while learning JavaScript
+Pl:
+Projekty które napisałem podczas nauki języka: 'JavaScript'.
+
+Eng:
+Projects I wrote while I was learning: 'JavaScript'.
