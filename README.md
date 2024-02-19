@@ -1,2 +1,2 @@
 # JavaScriptExercises
-IN this repository I will upload projects I did while learning JavaScript
+In this repository I will upload projects I did while learning JavaScript
