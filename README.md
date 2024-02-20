@@ -1,4 +1,4 @@
-# JavaScriptExercises
+# JavaScript Exercises
 Pl:
 Projekty które napisałem podczas nauki języka programowania: 'JavaScript'.
 
